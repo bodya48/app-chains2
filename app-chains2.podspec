@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   :git => "https://github.com/bodya48/app-chains2.git", 
   :tag => "1.0.0" 
   }
-  s.platform     = :ios, '8.0'
+  s.platform     = :ios, '9.0'
   
   s.vendored_frameworks = 'AppChainsLibrary.framework'
   
