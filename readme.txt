@@ -1,1 +1,1 @@
-cocoapods repo for local pod (framework on objc lang)
+Temp CocoaPods Repo for local Pod - AppChains framework on ObjC language
